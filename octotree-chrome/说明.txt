@@ -1,1 +1,3 @@
-github查看代码工具
+【功能】：github查看代码工具
+【安装方式】：chrome输入chrome://extensions/，把octotree-chrome.crx拖入进去
+【快捷键】：ctrl+shift+s
